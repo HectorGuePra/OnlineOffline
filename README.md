@@ -25,11 +25,11 @@ La nueva funcionalidad también implicará proporcionar la lista de restaurantes
 
 Finalmente, el estado de cada restaurante debe ser visible.
 El sistema debe mostrar estos requisitos como se muestran en las siguientes capturas de pantalla:
-![image](https://github.com/JoaquinBorjaLeon/Online-Offline/assets/114420448/54cc5176-78ad-4371-8298-d01d1e4d16d7)
+![image](https://github.com/HectorGuePra/OnlineOffline/assets/114415917/73565804-b1d0-4da7-a0a7-d1aca0d469d0)
 
-![image](https://github.com/JoaquinBorjaLeon/Online-Offline/assets/114420448/d7a0e1cc-4949-4b35-b39a-8cc19eed97ac)
 
-![image](https://github.com/JoaquinBorjaLeon/Online-Offline/assets/114420448/b6ef9917-f7a7-4286-8d26-75add6fd78bd)
+![image](https://github.com/HectorGuePra/OnlineOffline/assets/114415917/13dbf297-3ae0-41ad-b5ca-66fcd5e5539b)
+
 
 Le pedimos que implemente los cambios necesarios en el backend y frontend para incluir la funcionalidad requerida.
 
